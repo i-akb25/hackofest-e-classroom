@@ -6,6 +6,7 @@ import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Courses from './components/Courses';
 import Login from './pages/Login';
 import Register from './pages/register';
+import Lectures from './components/Lectures';
 const App = () => {
   return (
     <BrowserRouter>
@@ -15,6 +16,7 @@ const App = () => {
           <Route path="/courses" element={<Courses/>} />
           <Route path="/login" element={<Login/>} />
           <Route path="/register" element={<Register/>} />
+          <Route path="/lectures" element={<Lectures/>} />
         </Routes>
         <Footer/>
       </BrowserRouter>

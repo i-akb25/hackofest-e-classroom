@@ -18,9 +18,9 @@ const Navbar = () => {
                             </a>
                         </li>
                         <li>
-                        <NavLink className="Link" to="/courses">
-              COURSES
-            </NavLink>
+                            <NavLink className="Link" to="/courses">
+                                COURSES
+                            </NavLink>
                         </li>
                         <li>
                             <a href="#contactus_section">Chat Room</a>
@@ -29,7 +29,14 @@ const Navbar = () => {
                             <a href="#contactus_section">Discussion Forum</a>
                         </li>
                         <li>
-                            <a href="#contactus_section">Know Yourself</a>
+                            <NavLink className="Link" to="/login">
+                                Login
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink className="Link" to="/register">
+                                Register
+                            </NavLink>
                         </li>
                     </ul>
                     <div className="srch">

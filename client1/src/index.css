@@ -1009,6 +1009,7 @@ footer .btn:hover {
   }
   
   .registerTitle {
+	margin-top: 4rem;
 	font-size: 50px;
   }
   
@@ -1181,3 +1182,22 @@ footer .btn:hover {
 		width: 100%;
 	}
 }
+/* LECTURE SECTION */
+#my-video{
+	display:flex;
+	flex-direction: column;
+	text-align: center;
+	
+
+}
+.electrical{
+   display: flex;
+   gap:1rem;
+   margin-top: 3rem;
+}
+
+.xyz{
+  text-align: center;
+
+}
+/* LECTURE SECTION */

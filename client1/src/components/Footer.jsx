@@ -5,7 +5,7 @@ const Footer = () => {
 <footer>
   <div className="footer-container">
     <div className="left-col">
-      <img src="images/icon/logo - Copy.png" style={{ width: 200 }} />
+      <img src="images/adhayan logo.jpg" style={{ width: 200 }} />
       <div className="logo" />
       <div className="social-media">
         <a href="#">

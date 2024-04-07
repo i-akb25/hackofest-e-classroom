@@ -7,6 +7,7 @@ const Navbar = () => {
             <header id="header">
                 <nav>
                     <div className="logo">
+                        <img src="../images/adhayan logo.jpg" alt="" />
                         <p>ADHAYAN</p>
 
                     </div>

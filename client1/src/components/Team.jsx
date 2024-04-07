@@ -32,7 +32,7 @@ const Team = () => {
                     </center>
                 </div><div className="card">
                     <center>
-                        <img src="https://www.instagram.com/p/CzyHjWDvEVb/?img_index=1" />
+                        <img src="../images/MUSKAN.jpg" />
                     </center>
                     <center>
                         <div className="card-title">Muskan Agrawal</div>
@@ -53,7 +53,7 @@ const Team = () => {
                     </center>
                 </div><div className="card">
                     <center>
-                        <img src="https://www.instagram.com/p/CzyHjWDvEVb/?img_index=1" />
+                        <img src="../images/PRINCE.jpg" />
                     </center>
                     <center>
                         <div className="card-title">Prince Verma</div>
@@ -75,7 +75,7 @@ const Team = () => {
                 </div>
                 <div className="card">
                     <center>
-                        <img src="https://www.instagram.com/p/CzyHjWDvEVb/?img_index=1" />
+                        <img src="../images/ABHISHEK.jpg" />
                     </center>
                     <center>
                         <div className="card-title">Abhishek Prajapati</div>

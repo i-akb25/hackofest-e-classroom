@@ -445,6 +445,7 @@ a, button {
 	cursor: pointer;
 	border-radius: 50px;
 	transition-duration: .8s;
+	object-fit: cover;
 }
 .totalcard .card img:hover {
 	transform: scale(3.5);

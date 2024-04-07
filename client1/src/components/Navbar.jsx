@@ -29,7 +29,7 @@ const Navbar = () => {
                             <a href="#contactus_section">Discussion Forum</a>
                         </li>
                         <li>
-                            <a href="#contactus_section">Know Yourself</a>
+                            <a href="#contactus_section">Register/Log In</a>
                         </li>
                     </ul>
                     <div className="srch">

@@ -46,8 +46,7 @@ const Courses = () => {
                         </div>
                         <div className='box'>
                             <div className='img'>
-                                <i style={{ fontSize: "70px" }} class="fa-solid fa-heart-pulse"></i>
-                            </div>
+                            <i style={{ fontSize: "70px" }}class="fa-solid fa-building"></i>                            </div>
                             <h1>Civil Engineering</h1>
                             <span>5 Courses</span>
                         </div>

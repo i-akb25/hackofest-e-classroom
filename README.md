@@ -5,6 +5,7 @@ The beautiful thing about Education is nobody can take it away from you”.
 Education has always been an heated topic in India. Getting a world class quality education has always been a big question. Although there are multiple organizations claming to provide an best learning experiences, it might be true but not at all the extents. There are multiple problems existing in these education platform like lack of interaction between students and most important parent-teacher meeting session. Also there exist problem such like lack of monitoring sessions and providing what to focus on. Providing best resources all at a single place.
                For this we are introducing Adhayan “The best  E-learning platform for the student, by the student, of the student”. A platform to assist students in evaluating their strengths and weaknesses, accessing study materials, attending live lectures, resolving doubts, engaging in chat rooms,  facilitating parent-teacher interaction along with the provision of daily motivational resources. Availability of all these features at a single platform will ensure in better educational growth of learner.
 
+Video Explanation: https://drive.google.com/file/d/1bCNR6PfSERdV3zl-kQIUl_kKTz5buUW2/view?usp=sharing
 
 <b>Getting Started</b>
 

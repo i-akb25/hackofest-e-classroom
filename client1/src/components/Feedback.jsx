@@ -5,7 +5,7 @@ const Feedback = () => {
     <div className="feedbox">
   <div className="feed">
     <form
-      action="mailto:abhijitmaxxim@gmail.com"
+      action="mailto:anuragaryanofficial@gmail.com"
       method="post"
       encType="text/plain"
     >

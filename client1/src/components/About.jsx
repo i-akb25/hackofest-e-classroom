@@ -13,9 +13,9 @@ const About = () => {
       <img className="sideImage" src="../images/extra/e3.jpg" alt="about" />
     </div>
     <div className="side-text">
-      <h2>What you think about us ?</h2>
+      <h2>What we think about Learning ?</h2>
       <p>
-        Education is the process of facilitating learning, or the acquisition of
+        Learning is the process of facilitating learning, or the acquisition of
         knowledge, skills, values, beliefs, and habits. Educational methods
         include teaching, training, storytelling, discussion and directed
         research.

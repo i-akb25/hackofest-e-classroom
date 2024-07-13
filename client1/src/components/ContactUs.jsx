@@ -10,7 +10,7 @@ const ContactUs = () => {
     <div className="back-contact">
       <div className="cc">
         <form
-          action="mailto:anuragaryan1002@gmail.com"
+          action="mailto:anuragaryofficial@gmail.com"
           method="post"
           encType="text/plain"
         >

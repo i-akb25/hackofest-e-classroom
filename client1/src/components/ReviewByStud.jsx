@@ -27,7 +27,7 @@ const ReviewByStud = () => {
       <div className="rev-card">
         <div className="identity">
           <img src="../images/creator/humanNotExist1.jpg" />
-          <p>Sophie Daniel</p>
+          <p>Mitali</p>
           <h6>Java</h6>
           <div className="rating">
             <img src="../images/icon/star.png" />
@@ -40,7 +40,7 @@ const ReviewByStud = () => {
         <div className="rev-cont">
           <p id="title">Review:</p>
           <p id="content">
-            I did Java Fundamenetal course with Rishab Sir. It was a great
+            I did Java Fundamenetal course with Muskan Ma'am. It was a great
             experience. The brain teasers and assignments, actually the whole
             lot of content was really good. Some problems were challenging yet
             interesting. Was explained very well where ever I stuck...
@@ -49,9 +49,9 @@ const ReviewByStud = () => {
       </div>
       <div className="rev-card">
         <div className="identity">
-          <img src="images/creator/humanNotExist2.jpg" />
-          <p>Clayton Clair</p>
-          <h6>C/C++</h6>
+          <img src="images/creator/HKS.jpeg" />
+          <p>Himansh</p>
+          <h6>Power System</h6>
           <div className="rating">
             <img src="../images/icon/star.png" />
             <img src="../images/icon/star.png" />
@@ -64,41 +64,16 @@ const ReviewByStud = () => {
           <p id="title">Review:</p>
           <p id="content">
             When I was watching "Dear Zindagi", I could relate Sharukh Khan to
-            Arnav Bhaiya. The way Sharukh Khan was giving life lessons to Alia
-            Bhatt, in the same way Arnav Bhaiya will give coding life lessons
-            which will guide you throughout your code life...
+            Anurag Bhaiya. The way Sharukh Khan was giving life lessons to Alia
+            Bhatt, in the same way Anurag Bhaiya will give electrical engineering life lessons
+            which will guide you throughout your engineering journey...
           </p>
         </div>
       </div>
       <div className="rev-card">
         <div className="identity">
-          <img src="../images/creator/humanNotExist3.jpg" />
-          <p>Devyn Sethi</p>
-          <h6>IIT</h6>
-          <div className="rating">
-            <img src="../images/icon/star.png" />
-            <img src="../images/icon/star.png" />
-            <img src="../images/icon/star.png" />
-            <img src="../images/icon/star.png" />
-            <img src="../images/icon/star.png" />
-          </div>
-        </div>
-        <div className="rev-cont">
-          <p id="title">Review:</p>
-          <p id="content">
-            RDR Home Tutorial was an amazing experience for me. I belong to
-            electronics department and had a little experience in coding but I
-            think it has helped me think things through in a much more
-            analytical manner. Coding is important no matter which branch you
-            are in. It gives you a better understanding about how to approach a
-            problem...
-          </p>
-        </div>
-      </div>
-      <div className="rev-card">
-        <div className="identity">
-          <img src="../images/creator/humanNotExist4.jpg" />
-          <p>Rylee Phillips</p>
+          <img src="../images/creator/JM.jpeg" />
+          <p>Jaynish </p>
           <h6>Python</h6>
           <div className="rating">
             <img src="../images/icon/star.png" />
@@ -111,10 +86,34 @@ const ReviewByStud = () => {
         <div className="rev-cont">
           <p id="title">Review:</p>
           <p id="content">
-            This was my first complete course at coding blocks. I attended the
-            Python course in Winter 2020 and loved it which made me join the
-            full course. Shubham bhaiya and Ayush Bhaiya(TA) have good knowledge
-            about the field and were very helpful in making us understand the
+            Adhayan was an amazing experience for me. I belong to
+            electrical department and had a little experience in coding but I
+            think it has helped me think things through in a much more
+            analytical manner. Coding is important no matter which branch you
+            are in. It gives you a better understanding about how to approach a
+            problem...
+          </p>
+        </div>
+      </div>
+      <div className="rev-card">
+        <div className="identity">
+          <img src="../images/creator/humanNotExist4.jpg" />
+          <p>Sakshi</p>
+          <h6>Python</h6>
+          <div className="rating">
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+            <img src="../images/icon/star.png" />
+          </div>
+        </div>
+        <div className="rev-cont">
+          <p id="title">Review:</p>
+          <p id="content">
+            This was my first complete course at Adhayan. I attended the
+            Python course recently and loved it which made me join the
+            full course.The Team have good knowledge about the field and were very helpful in making us understand the
             concepts. I would certainly recommend this to anyone...
           </p>
         </div>

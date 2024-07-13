@@ -5,7 +5,7 @@ const Footer = () => {
 <footer>
   <div className="footer-container">
     <div className="left-col">
-      <img src="images/adhayan logo.jpg" style={{ width: 200 }} />
+      <img src="images/FOOTER LOGO.png" style={{ width: 200 }} />
       <div className="logo" />
       <div className="social-media">
         <a href="#">
@@ -27,21 +27,19 @@ const Footer = () => {
       <br />
       <br />
       <p className="rights-text">
-        Copyright © 2024 Created By Aditya Gupta, Abhijit Dutta All Rights
-        Reserved.
+        Copyright © 2024 Created By Team ByteBlitz, ByteBlitz All Rights Reserved.
       </p>
       <br />
       <p>
-        <img src="../images/icon/location.png" /> RDR Tutorial Home
+        <img src="../images/icon/location.png" /> National Institute of Technology Patna
         <br />
-        Near Airport, Guwahati
+        Patna University Campus, Patna, Bihar 800005
       </p>
       <br />
       <p>
-        <img src="../images/icon/phone.png" /> +91 97067 86103
-        <br />
+    
         <img src="../images/icon/mail.png" />
-        &nbsp; abhijitmaxxim@gmail.com
+        &nbsp; anuragaryanofficial@gmail.com
       </p>
     </div>
     <div className="right-col">

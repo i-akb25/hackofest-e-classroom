@@ -23,7 +23,7 @@ const Team = () => {
                             </p>
                             <div className="duty" />
                             <a
-                                href="https://www.instagram.com/lens_shooter86103/"
+                                href="https://www.instagram.com/ace_akb/"
                                 target="_blank"
                             >
                                 <button className="btn-roshan">Follow +</button>
@@ -44,7 +44,7 @@ const Team = () => {
                             </p>
                             <div className="duty" />
                             <a
-                                href="https://www.instagram.com/lens_shooter86103/"
+                                href="https://www.instagram.com/_muskanagrawal678_/"
                                 target="_blank"
                             >
                                 <button className="btn-roshan">Follow +</button>
@@ -65,7 +65,7 @@ const Team = () => {
                             </p>
                             <div className="duty" />
                             <a
-                                href="https://www.instagram.com/lens_shooter86103/"
+                                href="https://www.instagram.com/prince164_/"
                                 target="_blank"
                             >
                                 <button className="btn-roshan">Follow +</button>
@@ -87,7 +87,7 @@ const Team = () => {
                             </p>
                             <div className="duty" />
                             <a
-                                href="https://www.instagram.com/lens_shooter86103/"
+                                href="https://www.instagram.com/abhishekp_2025/"
                                 target="_blank"
                             >
                                 <button className="btn-akhil">Follow +</button>

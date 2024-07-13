@@ -29,12 +29,16 @@ const Navbar = () => {
             <li>
               <a href="#contactus_section">Discussion Forum</a>
             </li>
+            <li>
             <NavLink className="Link" to="/login">
               Login
             </NavLink>
+            </li>
+            <li>
             <NavLink className="Link" to="/register">
               Register
             </NavLink>
+            </li>
           </ul>
           <div className="srch">
             <input

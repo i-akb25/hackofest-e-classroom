@@ -1,4 +1,4 @@
-import React from "react";
+//import React from "react";
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
@@ -49,13 +49,13 @@ const Navbar = () => {
             <img
               src="../images/icon/search.png"
               alt="search"
-              onclick="slide()"
+              onClick="slide()"
             />
           </div>
           <img
             src="../images/icon/menu.png"
             className="menu"
-            onclick="sideMenu(0)"
+            onClick="sideMenu(0)"
             alt="menu"
           />
         </nav>

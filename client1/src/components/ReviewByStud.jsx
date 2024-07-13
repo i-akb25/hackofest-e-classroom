@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 
 const ReviewByStud = () => {
   return (
@@ -40,7 +40,7 @@ const ReviewByStud = () => {
         <div className="rev-cont">
           <p id="title">Review:</p>
           <p id="content">
-            I did Java Fundamenetal course with Muskan Ma'am. It was a great
+            I did Java Fundamenetal course with Muskan Maam. It was a great
             experience. The brain teasers and assignments, actually the whole
             lot of content was really good. Some problems were challenging yet
             interesting. Was explained very well where ever I stuck...
@@ -63,7 +63,7 @@ const ReviewByStud = () => {
         <div className="rev-cont">
           <p id="title">Review:</p>
           <p id="content">
-            When I was watching "Dear Zindagi", I could relate Sharukh Khan to
+            When I was watching Dear Zindagi Movie, I could relate Sharukh Khan to
             Anurag Bhaiya. The way Sharukh Khan was giving life lessons to Alia
             Bhatt, in the same way Anurag Bhaiya will give electrical engineering life lessons
             which will guide you throughout your engineering journey...

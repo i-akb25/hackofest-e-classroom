@@ -1,11 +1,11 @@
-import React from 'react'
+//import React from 'react'
 
 const Team = () => {
     return (
         <div className="diffSection" id="team_section">
             <center>
                 <p style={{ fontSize: 50, paddingTop: 100, paddingBottom: 60 }}>
-                    We're the Creators
+                    Meet the Creators
                 </p>
             </center>
             <div className="totalcard">

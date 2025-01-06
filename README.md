@@ -22,7 +22,7 @@ The availability of all these features on a single platform ensures better educa
 🎥 [Watch the video explanation](https://drive.google.com/file/d/1bCNR6PfSERdV3zl-kQIUl_kKTz5buUW2/view?usp=sharing)
 
 ## Live Preview
-🌐 [Visit Adhayan 2](https://e-learning-adhayan.vercel.app/)
+🌐 [Visit Adhayan](https://e-learning-adhayan.vercel.app/)
 
 ## Repository
 📂 [GitHub Repository](https://github.com/i-akb25/hackofest-e-classroom)

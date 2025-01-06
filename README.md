@@ -1,4 +1,4 @@
-# Adhayan 2
+# Adhayan
 
 ## Problem Statement: Quality Education
 

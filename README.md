@@ -1,5 +1,7 @@
 # Adhayan - "An E-Classromm"
 
+![GitHub repo size](https://img.shields.io/github/repo-size/i-akb25/hackofest-e-classroom?color=ff69b4&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/i-akb25/hackofest-e-classroom?style=social) 
+
 ## Problem Statement: Quality Education
 
 > "The beautiful thing about Education is nobody can take it away from you."
